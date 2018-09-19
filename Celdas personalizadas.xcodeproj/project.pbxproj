@@ -14,6 +14,7 @@
 		3D290FAD2151D85F00E40F1B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D290FAB2151D85F00E40F1B /* LaunchScreen.storyboard */; };
 		3D290FB82151D85F00E40F1B /* Celdas_personalizadasTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D290FB72151D85F00E40F1B /* Celdas_personalizadasTests.swift */; };
 		3D290FC32151D85F00E40F1B /* Celdas_personalizadasUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D290FC22151D85F00E40F1B /* Celdas_personalizadasUITests.swift */; };
+		3D290FD12151DA1900E40F1B /* Celda alumno.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D290FD02151DA1900E40F1B /* Celda alumno.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3D290FBE2151D85F00E40F1B /* Celdas personalizadasUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Celdas personalizadasUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D290FC22151D85F00E40F1B /* Celdas_personalizadasUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Celdas_personalizadasUITests.swift; sourceTree = "<group>"; };
 		3D290FC42151D85F00E40F1B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D290FD02151DA1900E40F1B /* Celda alumno.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Celda alumno.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				3D290FA92151D85F00E40F1B /* Assets.xcassets */,
 				3D290FAB2151D85F00E40F1B /* LaunchScreen.storyboard */,
 				3D290FAE2151D85F00E40F1B /* Info.plist */,
+				3D290FD02151DA1900E40F1B /* Celda alumno.swift */,
 			);
 			path = "Celdas personalizadas";
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3D290FA52151D85700E40F1B /* ViewController.swift in Sources */,
+				3D290FD12151DA1900E40F1B /* Celda alumno.swift in Sources */,
 				3D290FA32151D85700E40F1B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
